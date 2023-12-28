@@ -18,7 +18,7 @@ Saved weights of the trained model (weights of the last epoch and with the best 
 
 ### clone the repository: model_train
 ```
-git clone --recurse-submodules https://github.com/4-DS/obj_detect_binary-model_train.git {dir_for_model_train}
+git clone --recurse-submodules https://github.com/4-DS/obj_detect_binary-model_train.git
 cd obj_detect_binary-model_train
 ```  
 
